@@ -7,7 +7,7 @@
       "price": 99.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 0
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": 92.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 5
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": 95.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 2.6
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": 89.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.9
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": 49.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 4.9
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": 69.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 2.4
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": 56.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 3.5
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "price": 86.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.6
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "price": 74.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 2.9
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "price": 47.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 4.7
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "price": 81.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.4
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "price": 83.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 3.1
     },
     {
       "id": 13,
@@ -115,7 +115,7 @@
       "price": 68.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 4.4
     },
     {
       "id": 14,
@@ -124,7 +124,7 @@
       "price": 56.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.8
     },
     {
       "id": 15,
@@ -133,7 +133,7 @@
       "price": 101.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 2.3
     },
     {
       "id": 16,
@@ -142,7 +142,7 @@
       "price": 110.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 3.9
     },
     {
       "id": 17,
@@ -151,7 +151,7 @@
       "price": 103.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 4.8
     },
     {
       "id": 18,
@@ -160,7 +160,7 @@
       "price": 92.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.7
     },
     {
       "id": 19,
@@ -169,7 +169,7 @@
       "price": 74.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 2.8
     },
     {
       "id": 20,
@@ -178,7 +178,7 @@
       "price": 77.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 3.2
     },
     {
       "id": 21,
@@ -196,7 +196,7 @@
       "price": 43.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.5
     },
     {
       "id": 23,
@@ -205,7 +205,7 @@
       "price": 44.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 2.1
     },
     {
       "id": 24,
@@ -214,7 +214,7 @@
       "price": 40.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 3.6
     },
     {
       "id": 25,
@@ -223,7 +223,7 @@
       "price": 41.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 4.1
     },
     {
       "id": 26,
@@ -232,7 +232,7 @@
       "price": 39.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.2
     },
     {
       "id": 27,
@@ -241,7 +241,7 @@
       "price": 36.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 2.7
     },
     {
       "id": 28,
@@ -250,7 +250,7 @@
       "price": 38.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 3.7
     },
     {
       "id": 29,
@@ -259,7 +259,7 @@
       "price": 50.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 4.3
     },
     {
       "id": 30,
@@ -268,7 +268,7 @@
       "price": 66.99,
       "currency": "USD",
       "image": "https://via.placeholder.com/200",
-      "rating": 4.5
+      "rating": 1.3
     }
   ]
 }
